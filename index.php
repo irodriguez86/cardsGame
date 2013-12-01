@@ -6,6 +6,7 @@
     </head>
     <body>
         <canvas id="mainStage">
+
         </canvas>
     </body>
 </html>
