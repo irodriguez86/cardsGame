@@ -10,6 +10,11 @@ ttriad.config = {
         spritesPath: "img/sprites/",
         imgPatch: "img/"
     },
+    //menu elements
+    menu: {
+        play:       {x:100, y:50},
+        settings:   {x:100, y:50}
+    },
     // time units
     time: {
 

@@ -10,6 +10,7 @@
         <script type="text/javascript" src=js/ttriad.config.js></script>
         <script type="text/javascript" src=js/ttriad.loading.class.js></script>
         <script type="text/javascript" src=js/ttriad.main.js></script>
+        <script type="text/javascript" src=js/ttriad.menu.js></script>
     </head>
     <body>
         <div id="canvasContent">
