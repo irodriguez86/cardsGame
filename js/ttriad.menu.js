@@ -22,6 +22,7 @@ var Menu = function (stage) {
         });
         this.container.addChild(gameIcon);
         stage.addChild(this.container);
+
     };
 
     this._init();
